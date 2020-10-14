@@ -1,1 +1,1 @@
-# ChromHMM-and-clusterin_SLE-dataset
+# ChromHMM-and-clustering_SLE-dataset
